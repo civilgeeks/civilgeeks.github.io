@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Quantum Novice",
+    "title": "Civil Geeks",
     "description": "",
     "home_page_url": "civilgeeks.github.io",
     "feed_url": "civilgeeks.github.io/feed.json",
@@ -10,30 +10,46 @@
     },
     "items": [
         {
-            "id": "civilgeeks.github.io/welcome-to-quantum-novice.html",
-            "url": "civilgeeks.github.io/welcome-to-quantum-novice.html",
-            "title": "Welcome to Quantum Novice",
+            "id": "civilgeeks.github.io/freecad-make-reinforcement.html",
+            "url": "civilgeeks.github.io/freecad-make-reinforcement.html",
+            "title": "FreeCAD Make Reinforcement",
+            "summary": "These steps are to be performed in BIM workbench; 1. Create BIM structure and select its face. 2. Open Reinforcement tool, select reinforcement type. Enter its properties. 3. Pick the selected face and press apply, then ok. Change the transperency of BIM Object to `View&hellip;",
+            "content_html": "<strong>These steps are to be performed in BIM workbench;</strong><br><br>1. Create BIM structure and select its face.<br>2. Open Reinforcement tool, select reinforcement type.<br>    Enter its properties.<br>3. Pick the selected face and press apply, then ok.<br>    Change the transperency of BIM Object to `View &gt; Transperency` to 35% <br>    to see the reinforcement inside.",
             "author": {
                 "name": "Hasi Syed"
             },
             "tags": [
             ],
-            "date_published": "2019-06-24T13:11:23+05:00",
-            "date_modified": "2019-06-24T13:11:49+05:00"
+            "date_published": "2019-06-24T13:58:26+05:00",
+            "date_modified": "2019-06-24T13:58:26+05:00"
         },
         {
-            "id": "civilgeeks.github.io/ubuntu-door-knock-notifier.html",
-            "url": "civilgeeks.github.io/ubuntu-door-knock-notifier.html",
-            "title": "Ubuntu Door Knock Notifier",
-            "summary": "Visit the project site for details Dook Visit Project Site",
-            "content_html": "<p>Visit the project site for details</p>\n<p><a href=\"https://www.hackster.io/portabl3lapy/door-knock-notifier-b646be\">Dook Visit Project Site</a></p>",
+            "id": "civilgeeks.github.io/freecad-export-drawing-to-pdf.html",
+            "url": "civilgeeks.github.io/freecad-export-drawing-to-pdf.html",
+            "title": "FreeCAD Export Drawing to PDF",
+            "summary": "Export Drawing to PDFCreate A3 page in the drawing module and set views.Goto File &gt; Export &gt; PDF to export.",
+            "content_html": "<h2 id=\"mcetoc_1de4ala5k0\"><strong>Export Drawing to PDF</strong></h2>\n<ul style=\"list-style-type: disc;\">\n<li>Create A3 page in the drawing module and set views.</li>\n<li>Goto <code>File &gt; Export &gt; PDF</code> to export.</li>\n</ul>",
             "author": {
                 "name": "Hasi Syed"
             },
             "tags": [
             ],
-            "date_published": "2019-06-24T12:55:47+05:00",
-            "date_modified": "2019-06-24T13:09:12+05:00"
+            "date_published": "2019-06-24T13:50:38+05:00",
+            "date_modified": "2019-06-24T13:57:29+05:00"
+        },
+        {
+            "id": "civilgeeks.github.io/welcome-to-civil-geeks.html",
+            "url": "civilgeeks.github.io/welcome-to-civil-geeks.html",
+            "title": "Welcome to Civil Geeks",
+            "summary": "Our Journey begins today.",
+            "content_html": "Our Journey begins today.",
+            "author": {
+                "name": "Hasi Syed"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-06-24T13:41:59+05:00",
+            "date_modified": "2019-06-24T14:01:19+05:00"
         }
     ]
 }

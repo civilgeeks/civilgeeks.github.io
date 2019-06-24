@@ -1,44 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Quantum Novice</title>
+    <title>Civil Geeks</title>
     <link href="civilgeeks.github.io/feed.xml" rel="self" />
     <link href="civilgeeks.github.io" />
-    <updated>2019-06-24T13:19:53+05:00</updated>
+    <updated>2019-06-24T14:01:42+05:00</updated>
     <author>
         <name>Hasi Syed</name>
     </author>
     <id>civilgeeks.github.io</id>
 
     <entry>
-        <title>Welcome to Quantum Novice</title>
+        <title>FreeCAD Make Reinforcement</title>
         <author>
             <name>Hasi Syed</name>
         </author>
-        <link href="civilgeeks.github.io/welcome-to-quantum-novice.html"/>
-        <id>civilgeeks.github.io/welcome-to-quantum-novice.html</id>
+        <link href="civilgeeks.github.io/freecad-make-reinforcement.html"/>
+        <id>civilgeeks.github.io/freecad-make-reinforcement.html</id>
 
-        <updated>2019-06-24T13:11:49+05:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Ubuntu Door Knock Notifier</title>
-        <author>
-            <name>Hasi Syed</name>
-        </author>
-        <link href="civilgeeks.github.io/ubuntu-door-knock-notifier.html"/>
-        <id>civilgeeks.github.io/ubuntu-door-knock-notifier.html</id>
-
-        <updated>2019-06-24T13:09:12+05:00</updated>
+        <updated>2019-06-24T13:58:26+05:00</updated>
             <summary>
                 <![CDATA[
-                    Visit the project site for details Dook Visit Project Site
+                    These steps are to be performed in BIM workbench; 1. Create BIM structure and select its face. 2. Open Reinforcement tool, select reinforcement type. Enter its properties. 3. Pick the selected face and press apply, then ok. Change the transperency of BIM Object to `View&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Visit the project site for details</p>
-<p><a href="https://www.hackster.io/portabl3lapy/door-knock-notifier-b646be">Dook Visit Project Site</a></p>
+                <strong>These steps are to be performed in BIM workbench;</strong><br><br>1. Create BIM structure and select its face.<br>2. Open Reinforcement tool, select reinforcement type.<br>    Enter its properties.<br>3. Pick the selected face and press apply, then ok.<br>    Change the transperency of BIM Object to `View &gt; Transperency` to 35% <br>    to see the reinforcement inside.
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>FreeCAD Export Drawing to PDF</title>
+        <author>
+            <name>Hasi Syed</name>
+        </author>
+        <link href="civilgeeks.github.io/freecad-export-drawing-to-pdf.html"/>
+        <id>civilgeeks.github.io/freecad-export-drawing-to-pdf.html</id>
+
+        <updated>2019-06-24T13:57:29+05:00</updated>
+            <summary>
+                <![CDATA[
+                    Export Drawing to PDFCreate A3 page in the drawing module and set views.Goto File &gt; Export &gt; PDF to export.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 id="mcetoc_1de4ala5k0"><strong>Export Drawing to PDF</strong></h2>
+<ul style="list-style-type: disc;">
+<li>Create A3 page in the drawing module and set views.</li>
+<li>Goto <code>File &gt; Export &gt; PDF</code> to export.</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Welcome to Civil Geeks</title>
+        <author>
+            <name>Hasi Syed</name>
+        </author>
+        <link href="civilgeeks.github.io/welcome-to-civil-geeks.html"/>
+        <id>civilgeeks.github.io/welcome-to-civil-geeks.html</id>
+
+        <updated>2019-06-24T14:01:19+05:00</updated>
+            <summary>
+                <![CDATA[
+                    Our Journey begins today.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                Our Journey begins today.
             ]]>
         </content>
     </entry>
