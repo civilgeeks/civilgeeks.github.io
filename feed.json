@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Civil Geeks",
     "description": "",
-    "home_page_url": "civilgeeks.github.io",
-    "feed_url": "civilgeeks.github.io/feed.json",
+    "home_page_url": "https://civilgeeks.github.io",
+    "feed_url": "https://civilgeeks.github.io/feed.json",
     "user_comment": "",
     "author": {
         "name": "Hasi Syed"
     },
     "items": [
         {
-            "id": "civilgeeks.github.io/freecad-make-reinforcement.html",
-            "url": "civilgeeks.github.io/freecad-make-reinforcement.html",
+            "id": "https://civilgeeks.github.io/freecad-make-reinforcement.html",
+            "url": "https://civilgeeks.github.io/freecad-make-reinforcement.html",
             "title": "FreeCAD Make Reinforcement",
             "summary": "These steps are to be performed in BIM workbench; 1. Create BIM structure and select its face. 2. Open Reinforcement tool, select reinforcement type. Enter its properties. 3. Pick the selected face and press apply, then ok. Change the transperency of BIM Object to `View&hellip;",
             "content_html": "<strong>These steps are to be performed in BIM workbench;</strong><br><br>1. Create BIM structure and select its face.<br>2. Open Reinforcement tool, select reinforcement type.<br>    Enter its properties.<br>3. Pick the selected face and press apply, then ok.<br>    Change the transperency of BIM Object to `View &gt; Transperency` to 35% <br>    to see the reinforcement inside.",
@@ -24,8 +24,8 @@
             "date_modified": "2019-06-24T13:58:26+05:00"
         },
         {
-            "id": "civilgeeks.github.io/freecad-export-drawing-to-pdf.html",
-            "url": "civilgeeks.github.io/freecad-export-drawing-to-pdf.html",
+            "id": "https://civilgeeks.github.io/freecad-export-drawing-to-pdf.html",
+            "url": "https://civilgeeks.github.io/freecad-export-drawing-to-pdf.html",
             "title": "FreeCAD Export Drawing to PDF",
             "summary": "Export Drawing to PDFCreate A3 page in the drawing module and set views.Goto File &gt; Export &gt; PDF to export.",
             "content_html": "<h2 id=\"mcetoc_1de4ala5k0\"><strong>Export Drawing to PDF</strong></h2>\n<ul style=\"list-style-type: disc;\">\n<li>Create A3 page in the drawing module and set views.</li>\n<li>Goto <code>File &gt; Export &gt; PDF</code> to export.</li>\n</ul>",
@@ -38,8 +38,8 @@
             "date_modified": "2019-06-24T13:57:29+05:00"
         },
         {
-            "id": "civilgeeks.github.io/welcome-to-civil-geeks.html",
-            "url": "civilgeeks.github.io/welcome-to-civil-geeks.html",
+            "id": "https://civilgeeks.github.io/welcome-to-civil-geeks.html",
+            "url": "https://civilgeeks.github.io/welcome-to-civil-geeks.html",
             "title": "Welcome to Civil Geeks",
             "summary": "Our Journey begins today.",
             "content_html": "Our Journey begins today.",

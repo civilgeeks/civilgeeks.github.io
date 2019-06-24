@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Civil Geeks</title>
-    <link href="civilgeeks.github.io/feed.xml" rel="self" />
-    <link href="civilgeeks.github.io" />
-    <updated>2019-06-24T19:30:12+05:00</updated>
+    <link href="https://civilgeeks.github.io/feed.xml" rel="self" />
+    <link href="https://civilgeeks.github.io" />
+    <updated>2019-06-24T21:04:09+05:00</updated>
     <author>
         <name>Hasi Syed</name>
     </author>
-    <id>civilgeeks.github.io</id>
+    <id>https://civilgeeks.github.io</id>
 
     <entry>
         <title>FreeCAD Make Reinforcement</title>
         <author>
             <name>Hasi Syed</name>
         </author>
-        <link href="civilgeeks.github.io/freecad-make-reinforcement.html"/>
-        <id>civilgeeks.github.io/freecad-make-reinforcement.html</id>
+        <link href="https://civilgeeks.github.io/freecad-make-reinforcement.html"/>
+        <id>https://civilgeeks.github.io/freecad-make-reinforcement.html</id>
 
         <updated>2019-06-24T13:58:26+05:00</updated>
             <summary>
@@ -34,8 +34,8 @@
         <author>
             <name>Hasi Syed</name>
         </author>
-        <link href="civilgeeks.github.io/freecad-export-drawing-to-pdf.html"/>
-        <id>civilgeeks.github.io/freecad-export-drawing-to-pdf.html</id>
+        <link href="https://civilgeeks.github.io/freecad-export-drawing-to-pdf.html"/>
+        <id>https://civilgeeks.github.io/freecad-export-drawing-to-pdf.html</id>
 
         <updated>2019-06-24T13:57:29+05:00</updated>
             <summary>
@@ -58,8 +58,8 @@
         <author>
             <name>Hasi Syed</name>
         </author>
-        <link href="civilgeeks.github.io/welcome-to-civil-geeks.html"/>
-        <id>civilgeeks.github.io/welcome-to-civil-geeks.html</id>
+        <link href="https://civilgeeks.github.io/welcome-to-civil-geeks.html"/>
+        <id>https://civilgeeks.github.io/welcome-to-civil-geeks.html</id>
 
         <updated>2019-06-24T14:01:19+05:00</updated>
             <summary>
