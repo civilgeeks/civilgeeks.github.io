@@ -1,0 +1,39 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Quantum Novice",
+    "description": "",
+    "home_page_url": "civilgeeks.github.io",
+    "feed_url": "civilgeeks.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Hasi Syed"
+    },
+    "items": [
+        {
+            "id": "civilgeeks.github.io/welcome-to-quantum-novice.html",
+            "url": "civilgeeks.github.io/welcome-to-quantum-novice.html",
+            "title": "Welcome to Quantum Novice",
+            "author": {
+                "name": "Hasi Syed"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-06-24T13:11:23+05:00",
+            "date_modified": "2019-06-24T13:11:49+05:00"
+        },
+        {
+            "id": "civilgeeks.github.io/ubuntu-door-knock-notifier.html",
+            "url": "civilgeeks.github.io/ubuntu-door-knock-notifier.html",
+            "title": "Ubuntu Door Knock Notifier",
+            "summary": "Visit the project site for details Dook Visit Project Site",
+            "content_html": "<p>Visit the project site for details</p>\n<p><a href=\"https://www.hackster.io/portabl3lapy/door-knock-notifier-b646be\">Dook Visit Project Site</a></p>",
+            "author": {
+                "name": "Hasi Syed"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-06-24T12:55:47+05:00",
+            "date_modified": "2019-06-24T13:09:12+05:00"
+        }
+    ]
+}

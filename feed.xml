@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Quantum Novice</title>
+    <link href="civilgeeks.github.io/feed.xml" rel="self" />
+    <link href="civilgeeks.github.io" />
+    <updated>2019-06-24T13:19:53+05:00</updated>
+    <author>
+        <name>Hasi Syed</name>
+    </author>
+    <id>civilgeeks.github.io</id>
+
+    <entry>
+        <title>Welcome to Quantum Novice</title>
+        <author>
+            <name>Hasi Syed</name>
+        </author>
+        <link href="civilgeeks.github.io/welcome-to-quantum-novice.html"/>
+        <id>civilgeeks.github.io/welcome-to-quantum-novice.html</id>
+
+        <updated>2019-06-24T13:11:49+05:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Ubuntu Door Knock Notifier</title>
+        <author>
+            <name>Hasi Syed</name>
+        </author>
+        <link href="civilgeeks.github.io/ubuntu-door-knock-notifier.html"/>
+        <id>civilgeeks.github.io/ubuntu-door-knock-notifier.html</id>
+
+        <updated>2019-06-24T13:09:12+05:00</updated>
+            <summary>
+                <![CDATA[
+                    Visit the project site for details Dook Visit Project Site
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Visit the project site for details</p>
+<p><a href="https://www.hackster.io/portabl3lapy/door-knock-notifier-b646be">Dook Visit Project Site</a></p>
+            ]]>
+        </content>
+    </entry>
+</feed>
