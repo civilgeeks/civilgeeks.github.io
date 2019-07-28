@@ -14,14 +14,14 @@
             "url": "https://civilgeeks.github.io/freecad-cost-estimation-of-brick-walls.html",
             "title": "FreeCAD Cost Estimation of Brick Walls",
             "summary": "Description BrickWallEstimate is BIM/Arch macro for FreeCAD that automatically estimates the cost of all the wall with IFCType or IFCRole = \"Wall\". Usage * Download the macro from github repository (link below). * Enable python console. * Create a wall. * Run macro and it'll&hellip;",
-            "content_html": "<p><strong>Description</strong><br>BrickWallEstimate is BIM/Arch macro for FreeCAD that automatically estimates the cost of all the<br>wall with IFCType or IFCRole = \"Wall\". <br><br><strong>Usage</strong><br>* Download the macro from github repository (link below).<br>* Enable python console.<br>* Create a wall.<br>* Run macro and it'll display different estiamtion parameters.<br>* You can uncomment the line at the end of the macro to get the cost of selected<br> objects only.<br><strong>Contribution</strong><br>A general template is povided in the github repo to make cost estimation template of different<br>structures. It'll be then used to create a workbench.<br><strong>Screenshot</strong></p>\n<div class=\"gallery\"  > </div>\n<p><strong><a href=\"https://github.com/QuantumNovice/FreeCAD-macros/tree/master/Cost%20Estimation\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"Download Here\">Download Here</a></strong></p>",
+            "content_html": "<p><strong>Description</strong><br>BrickWallEstimate is BIM/Arch macro for FreeCAD that automatically estimates the cost of all the<br>wall with IFCType or IFCRole = \"Wall\". <br><br><strong>Usage</strong><br>* Download the macro from github repository (link below).<br>* Enable python console.<br>* Create a wall.<br>* Run macro and it'll display different estiamtion parameters.<br>* You can uncomment the line at the end of the macro to get the cost of selected<br> objects only.<br><strong>Contribution</strong><br>A general template is povided in the github repo to make cost estimation template of different<br>structures. It'll be then used to create a workbench.<br><strong>Screenshot</strong></p>\n<p><strong><a href=\"https://github.com/QuantumNovice/FreeCAD-macros/tree/master/Cost%20Estimation\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"Download Here\">Download Here</a></strong></p>",
             "author": {
                 "name": "Hasi Syed"
             },
             "tags": [
             ],
             "date_published": "2019-07-19T22:38:11+05:00",
-            "date_modified": "2019-07-19T22:38:11+05:00"
+            "date_modified": "2019-07-28T11:13:56+05:00"
         },
         {
             "id": "https://civilgeeks.github.io/freecad-make-reinforcement.html",
