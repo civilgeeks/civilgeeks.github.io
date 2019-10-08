@@ -3,12 +3,65 @@
     <title>Civil Geeks</title>
     <link href="https://civilgeeks.github.io/feed.xml" rel="self" />
     <link href="https://civilgeeks.github.io" />
-    <updated>2019-07-28T11:23:10+05:00</updated>
+    <updated>2019-10-08T20:14:09+05:00</updated>
     <author>
         <name>Hasi Syed</name>
     </author>
     <id>https://civilgeeks.github.io</id>
 
+    <entry>
+        <title>Introduction to Building Information Modeling</title>
+        <author>
+            <name>Hasi Syed</name>
+        </author>
+        <link href="https://civilgeeks.github.io/introduction-to-building-information-modeling.html"/>
+        <id>https://civilgeeks.github.io/introduction-to-building-information-modeling.html</id>
+
+        <updated>2019-10-08T20:13:54+05:00</updated>
+            <summary>
+                <![CDATA[
+                    Building: Building is a structure which serves some purpose like residence, storage or some other function. Information: This includes building data such as measurement, material, geometry, cost and time, etc. Modelling: The digital / mathematical representation of some objects or process is called modelling. Building&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><strong>Building:</strong></p>
+<p><strong>            </strong>Building is a structure which serves some purpose like residence, storage or some other function.</p>
+<p><strong>Information:</strong></p>
+<p><strong>            </strong>This includes building data such as measurement, material, geometry, cost and time, etc.</p>
+<p><strong>Modelling:</strong></p>
+<p><strong>            </strong>The digital / mathematical representation of some objects or process is called modelling.   </p>
+<p><strong>Building Information Modelling:</strong></p>
+<p>“BIM is a process involving the generation and management of digital representations of physical and functional characteristics of places/facilities.”</p>
+<p>[<a href="https://en.wikipedia.org/wiki/Building_information_modeling">Wikipedia</a>]</p>
+<p><strong>            “</strong>It is the digital representation of physical and functional characteristics of a facility forming a reliable basis for decisions during life cycle.”</p>
+<p><strong>Physical Characteristics:</strong></p>
+<p><strong>            </strong>These refers to geometry and material used.</p>
+<p><strong>Functional Characteristics:</strong></p>
+<p><strong>            </strong> It is the purpose for which the building is made.</p>
+<p><strong>Resource:</strong></p>
+<p>            Anything that is required to complete the task construction project is called a resource.</p>
+<p> </p>
+<p><strong>Explanation:</strong></p>
+<p>            The concept of BIM was introduced by S Ruffle in 1986. Building Information Modelling use the techniques of mathematical modelling on different aspects of building design in order to maximize the feasibility of the process and least usage of resources. In the original article Mr. Ruffle talks about the presence of large solution set for building design problems. He then suggests the usage of mathematical modelling to restrict the solution space by different constraints.</p>
+<p>BIM usually deals with 6-7 parameters of a project. These parameters are also called dimensions of the model. They are:</p>
+<ul>
+<li>Length</li>
+<li>Width Depth</li>
+<li>Time</li>
+<li>Cost</li>
+<li>Environmental Factors &amp; Sustainability</li>
+<li>Building Management</li>
+</ul>
+<p><strong>BIM Softwares:</strong></p>
+<ul>
+<li>Revit</li>
+<li>XBIM Toolkit</li>
+<li>Free CAD</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>FreeCAD Cost Estimation of Brick Walls</title>
         <author>
@@ -17,7 +70,7 @@
         <link href="https://civilgeeks.github.io/freecad-cost-estimation-of-brick-walls.html"/>
         <id>https://civilgeeks.github.io/freecad-cost-estimation-of-brick-walls.html</id>
 
-        <updated>2019-07-28T11:13:56+05:00</updated>
+        <updated>2019-10-08T00:13:27+05:00</updated>
             <summary>
                 <![CDATA[
                     Description BrickWallEstimate is BIM/Arch macro for FreeCAD that automatically estimates the cost of all the wall with IFCType or IFCRole = "Wall". Usage * Download the macro from github repository (link below). * Enable python console. * Create a wall. * Run macro and it'll&hellip;

@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://civilgeeks.github.io/introduction-to-building-information-modeling.html",
+            "url": "https://civilgeeks.github.io/introduction-to-building-information-modeling.html",
+            "title": "Introduction to Building Information Modeling",
+            "summary": "Building: Building is a structure which serves some purpose like residence, storage or some other function. Information: This includes building data such as measurement, material, geometry, cost and time, etc. Modelling: The digital / mathematical representation of some objects or process is called modelling. Building&hellip;",
+            "content_html": "<p><strong>Building:</strong></p>\n<p><strong>            </strong>Building is a structure which serves some purpose like residence, storage or some other function.</p>\n<p><strong>Information:</strong></p>\n<p><strong>            </strong>This includes building data such as measurement, material, geometry, cost and time, etc.</p>\n<p><strong>Modelling:</strong></p>\n<p><strong>            </strong>The digital / mathematical representation of some objects or process is called modelling.   </p>\n<p><strong>Building Information Modelling:</strong></p>\n<p>“BIM is a process involving the generation and management of digital representations of physical and functional characteristics of places/facilities.”</p>\n<p>[<a href=\"https://en.wikipedia.org/wiki/Building_information_modeling\">Wikipedia</a>]</p>\n<p><strong>            “</strong>It is the digital representation of physical and functional characteristics of a facility forming a reliable basis for decisions during life cycle.”</p>\n<p><strong>Physical Characteristics:</strong></p>\n<p><strong>            </strong>These refers to geometry and material used.</p>\n<p><strong>Functional Characteristics:</strong></p>\n<p><strong>            </strong> It is the purpose for which the building is made.</p>\n<p><strong>Resource:</strong></p>\n<p>            Anything that is required to complete the task construction project is called a resource.</p>\n<p> </p>\n<p><strong>Explanation:</strong></p>\n<p>            The concept of BIM was introduced by S Ruffle in 1986. Building Information Modelling use the techniques of mathematical modelling on different aspects of building design in order to maximize the feasibility of the process and least usage of resources. In the original article Mr. Ruffle talks about the presence of large solution set for building design problems. He then suggests the usage of mathematical modelling to restrict the solution space by different constraints.</p>\n<p>BIM usually deals with 6-7 parameters of a project. These parameters are also called dimensions of the model. They are:</p>\n<ul>\n<li>Length</li>\n<li>Width Depth</li>\n<li>Time</li>\n<li>Cost</li>\n<li>Environmental Factors &amp; Sustainability</li>\n<li>Building Management</li>\n</ul>\n<p><strong>BIM Softwares:</strong></p>\n<ul>\n<li>Revit</li>\n<li>XBIM Toolkit</li>\n<li>Free CAD</li>\n</ul>",
+            "author": {
+                "name": "Hasi Syed"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-10-08T20:13:54+05:00",
+            "date_modified": "2019-10-08T20:13:54+05:00"
+        },
+        {
             "id": "https://civilgeeks.github.io/freecad-cost-estimation-of-brick-walls.html",
             "url": "https://civilgeeks.github.io/freecad-cost-estimation-of-brick-walls.html",
             "title": "FreeCAD Cost Estimation of Brick Walls",
@@ -21,7 +35,7 @@
             "tags": [
             ],
             "date_published": "2019-07-19T22:38:11+05:00",
-            "date_modified": "2019-07-28T11:13:56+05:00"
+            "date_modified": "2019-10-08T00:13:27+05:00"
         },
         {
             "id": "https://civilgeeks.github.io/freecad-make-reinforcement.html",
