@@ -3,7 +3,7 @@
     <title>Civil Geeks</title>
     <link href="https://civilgeeks.github.io/feed.xml" rel="self" />
     <link href="https://civilgeeks.github.io" />
-    <updated>2019-10-16T01:18:02+05:00</updated>
+    <updated>2019-10-16T01:24:47+05:00</updated>
     <author>
         <name>Hasi Syed</name>
     </author>
@@ -17,15 +17,16 @@
         <link href="https://civilgeeks.github.io/online-solvers-for-mechanics-of-solid-verification.html"/>
         <id>https://civilgeeks.github.io/online-solvers-for-mechanics-of-solid-verification.html</id>
 
-        <updated>2019-10-16T01:17:53+05:00</updated>
+        <updated>2019-10-16T01:24:03+05:00</updated>
             <summary>
                 <![CDATA[
-                    Beam Solvers: Beam solvers solve for different parameters of beams. https://skyciv.com/free-beam-calculator/ http://beamguru.com/online/beam-calculator/ Sectional Property Solvers: https://skyciv.com/free-moment-of-inertia-calculator/ https://www.amesweb.info/SectionalPropertiesTabs/SectionalPropertiesCbeam.aspx https://calcresource.com/cross-section-channel.html 
+                    A solver is a piece of mathematical software that 'solves' a mathematical problem. Solvers are helpful in verification of manual calculations. A list of free to use solvers is provided in this post. Beam Solvers: Beam solvers solve for different parameters of beams. https://skyciv.com/free-beam-calculator/ http://beamguru.com/online/beam-calculator/ Sectional&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p><strong>Beam Solvers:</strong></p>
+                <p><span class="ILfuVd"><span class="e24Kjd">A <strong>solver</strong> is a piece of mathematical software<strong> </strong></span></span><span class="ILfuVd"><span class="e24Kjd">that 'solves' a mathematical problem. Solvers are helpful in verification of manual calculations. A list of free to use solvers is provided in this post.</span></span></p>
+<p><strong>Beam Solvers:</strong></p>
 <p>Beam solvers solve for different parameters of beams.</p>
 <p><a href="https://skyciv.com/free-beam-calculator/">https://skyciv.com/free-beam-calculator/</a></p>
 <div class="gallery"   >
@@ -38,8 +39,7 @@
 <figure class="post__image post__image" ><img src="https://civilgeeks.github.io/media/posts/9/beamguru.PNG" alt="Beam Guru Caclculator" width="909" height="666">
 <figcaption >Beam Guru Beam Solver with Shear Force and Bending Moment Diagrams</figcaption>
 </figure>
-<p> </p>
-<p><strong>Sectional Property Solvers:</strong></p>
+<p> <strong>Sectional Property Solvers:</strong></p>
 <p><a href="https://skyciv.com/free-moment-of-inertia-calculator/">https://skyciv.com/free-moment-of-inertia-calculator/</a></p>
 <p><a href="https://www.amesweb.info/SectionalPropertiesTabs/SectionalPropertiesCbeam.aspx">https://www.amesweb.info/SectionalPropertiesTabs/SectionalPropertiesCbeam.aspx</a></p>
 <p><img class="post__image" src="https://civilgeeks.github.io/media/posts/9/skycivbeam.PNG" alt="" width="1222" height="591"></p>
