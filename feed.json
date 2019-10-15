@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://civilgeeks.github.io/online-solvers-for-mechanics-of-solid-verification.html",
+            "url": "https://civilgeeks.github.io/online-solvers-for-mechanics-of-solid-verification.html",
+            "title": "Online Solvers for Mechanics of Solid Verification",
+            "summary": "Beam Solvers: Beam solvers solve for different parameters of beams. https://skyciv.com/free-beam-calculator/ http://beamguru.com/online/beam-calculator/ Sectional Property Solvers: https://skyciv.com/free-moment-of-inertia-calculator/ https://www.amesweb.info/SectionalPropertiesTabs/SectionalPropertiesCbeam.aspx https://calcresource.com/cross-section-channel.html ",
+            "content_html": "<p><strong>Beam Solvers:</strong></p>\n<p>Beam solvers solve for different parameters of beams.</p>\n<p><a href=\"https://skyciv.com/free-beam-calculator/\">https://skyciv.com/free-beam-calculator/</a></p>\n<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://civilgeeks.github.io/media/posts/9/gallery/skyciv1.PNG\" ><img src=\"https://civilgeeks.github.io/media/posts/9/gallery/skyciv1-thumbnail.PNG\" alt=\"\" width=\"764\" height=\"503\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://civilgeeks.github.io/media/posts/9/gallery/skyciv2.PNG\" ><img src=\"https://civilgeeks.github.io/media/posts/9/gallery/skyciv2-thumbnail.PNG\" alt=\"\" width=\"768\" height=\"691\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://civilgeeks.github.io/media/posts/9/gallery/skyciv3.PNG\" ><img src=\"https://civilgeeks.github.io/media/posts/9/gallery/skyciv3-thumbnail.PNG\" alt=\"\" width=\"768\" height=\"705\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://civilgeeks.github.io/media/posts/9/gallery/skyciv4.PNG\" ><img src=\"https://civilgeeks.github.io/media/posts/9/gallery/skyciv4-thumbnail.PNG\" alt=\"\" width=\"762\" height=\"560\"></a></figure>\n</div>\n<p><a href=\"http://beamguru.com/online/beam-calculator/\">http://beamguru.com/online/beam-calculator/</a></p>\n<figure class=\"post__image post__image\" ><img src=\"https://civilgeeks.github.io/media/posts/9/beamguru.PNG\" alt=\"Beam Guru Caclculator\" width=\"909\" height=\"666\">\n<figcaption >Beam Guru Beam Solver with Shear Force and Bending Moment Diagrams</figcaption>\n</figure>\n<p> </p>\n<p><strong>Sectional Property Solvers:</strong></p>\n<p><a href=\"https://skyciv.com/free-moment-of-inertia-calculator/\">https://skyciv.com/free-moment-of-inertia-calculator/</a></p>\n<p><a href=\"https://www.amesweb.info/SectionalPropertiesTabs/SectionalPropertiesCbeam.aspx\">https://www.amesweb.info/SectionalPropertiesTabs/SectionalPropertiesCbeam.aspx</a></p>\n<p><img class=\"post__image\" src=\"https://civilgeeks.github.io/media/posts/9/skycivbeam.PNG\" alt=\"\" width=\"1222\" height=\"591\"></p>\n<p><a href=\"https://calcresource.com/cross-section-channel.html\">https://calcresource.com/cross-section-channel.html</a></p>\n<p><img class=\"post__image\" src=\"https://civilgeeks.github.io/media/posts/9/calcres.PNG\" alt=\"\" width=\"808\" height=\"797\"></p>\n<p> </p>",
+            "author": {
+                "name": "Hasi Syed"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-10-16T01:14:30+05:00",
+            "date_modified": "2019-10-16T01:17:53+05:00"
+        },
+        {
             "id": "https://civilgeeks.github.io/introduction-to-building-information-modeling.html",
             "url": "https://civilgeeks.github.io/introduction-to-building-information-modeling.html",
             "title": "Introduction to Building Information Modeling",
